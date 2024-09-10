@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise01-BoundingSphere", "Exercise01-BoundingSphere.vcxproj", "{0263658B-9DB9-406D-8963-0A6592968D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0263658B-9DB9-406D-8963-0A6592968D29}.Debug|x64.ActiveCfg = Debug|x64
+		{0263658B-9DB9-406D-8963-0A6592968D29}.Debug|x64.Build.0 = Debug|x64
+		{0263658B-9DB9-406D-8963-0A6592968D29}.Debug|x86.ActiveCfg = Debug|Win32
+		{0263658B-9DB9-406D-8963-0A6592968D29}.Debug|x86.Build.0 = Debug|Win32
+		{0263658B-9DB9-406D-8963-0A6592968D29}.Release|x64.ActiveCfg = Release|x64
+		{0263658B-9DB9-406D-8963-0A6592968D29}.Release|x64.Build.0 = Release|x64
+		{0263658B-9DB9-406D-8963-0A6592968D29}.Release|x86.ActiveCfg = Release|Win32
+		{0263658B-9DB9-406D-8963-0A6592968D29}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DF9EB87-F266-4C33-9CAD-5743969B364C}
+	EndGlobalSection
+EndGlobal
